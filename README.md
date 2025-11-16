@@ -263,8 +263,7 @@ This project is for educational purposes. Feel free to use and modify for learni
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Data Science Enthusiast | ML Engineer  
+**Dipak Singh**  
 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
